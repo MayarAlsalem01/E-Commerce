@@ -1,0 +1,335 @@
+﻿++Solution 'e-commerce' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:e-commerce.sln
+++App.Infrastrcuture
+i:{00000000-0000-0000-0000-000000000000}:App.Infrastrcuture
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\bin\debug\net6.0\app.infrastrcuture.dll
+++Dependencies
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:>357
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:>543
+i:{50baa03f-db97-4834-8592-fd4c69529712}:>358
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:>673
+++Extensions
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\extensions\
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\extensions\
+++IServiceCollectionExtensions.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\extensions\iservicecollectionextensions.cs
+++MiddlewareExtensions.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\extensions\middlewareextensions.cs
+++Middleware
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\middleware\
+++ExceptionHandlerMiddleware.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\middleware\exceptionhandlermiddleware.cs
+++Migrations
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\migrations\
+++Persistence
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\persistence\
+++Data
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\persistence\data\
+++Repositories
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\persistence\repositories\
+++GenericRepository.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\persistence\repositories\genericrepository.cs
+++ProductRepository.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\persistence\repositories\productrepository.cs
+++UnitOfWork.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\persistence\repositories\unitofwork.cs
+++Services
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\services\
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\services\
+++Analyzers
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:analyzers
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:analyzers
+i:{50baa03f-db97-4834-8592-fd4c69529712}:analyzers
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:analyzers
+++Frameworks
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:frameworks
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:frameworks
+i:{50baa03f-db97-4834-8592-fd4c69529712}:frameworks
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:frameworks
+++Packages
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:packages
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:packages
+i:{50baa03f-db97-4834-8592-fd4c69529712}:packages
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:packages
+++Projects
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:projects
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:projects
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:projects
+++20230828092253_init.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\migrations\20230828092253_init.cs
+++20230828132255_addConfigToProduct.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\migrations\20230828132255_addconfigtoproduct.cs
+++20230905055912_add imageUrl field to product.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\migrations\20230905055912_add imageurl field to product.cs
+++20230912082547_convert image to binry .cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\migrations\20230912082547_convert image to binry .cs
+++ApplicationDbContextModelSnapshot.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\migrations\applicationdbcontextmodelsnapshot.cs
+++Config
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\persistence\data\config\
+++ApplicationDbContext.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\persistence\data\applicationdbcontext.cs
+++Event
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\services\event\
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.21\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.21\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\microsoft.netcore.app
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\microsoft.netcore.app
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\microsoft.netcore.app
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.api\microsoft.netcore.app
+++Microsoft.AspNetCore.Http.Abstractions (2.1.1)
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:>710
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:>708
+++Microsoft.EntityFrameworkCore (6.0.21)
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:>701
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.21)
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:>702
+++Microsoft.EntityFrameworkCore.Tools (6.0.21)
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:>709
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:>705
+++Newtonsoft.Json (13.0.3)
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:>707
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:>704
+++App.Applcation
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.applcation\bin\debug\net6.0\app.applcation.dll
+i:{00000000-0000-0000-0000-000000000000}:App.Applcation
+++App.Domain
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.domain\bin\debug\net6.0\app.domain.dll
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.domain\bin\debug\net6.0\app.domain.dll
+i:{00000000-0000-0000-0000-000000000000}:App.Domain
+++20230828092253_init.Designer.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\migrations\20230828092253_init.designer.cs
+++20230828132255_addConfigToProduct.Designer.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\migrations\20230828132255_addconfigtoproduct.designer.cs
+++20230905055912_add imageUrl field to product.Designer.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\migrations\20230905055912_add imageurl field to product.designer.cs
+++20230912082547_convert image to binry .Designer.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\migrations\20230912082547_convert image to binry .designer.cs
+++ProductConfigration.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\persistence\data\config\productconfigration.cs
+++DomainEventDispatcher.cs
+i:{706610ba-c3c3-4f32-adbc-f56cb78936da}:c:\users\drago\desktop\projects\e-commerce\app.infrastrcuture\services\event\domaineventdispatcher.cs
+++Common
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\common\
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\common\exceptions\common\
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\common\
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\response\common\
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\common\
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\interfaces\irepositories\common\
+++Exceptions
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\common\exceptions\
+++ServerException.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\common\exceptions\common\serverexception.cs
+++DomainException
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\common\exceptions\domainexception\
+++EntityException.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\common\exceptions\domainexception\entityexception.cs
+++LogicException
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\common\exceptions\logicexception\
+++NotFoundException.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\common\exceptions\logicexception\notfoundexception.cs
+++BaseException.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\common\exceptions\baseexception.cs
+++Mappings
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\common\mappings\
+++ProductProfile.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\common\mappings\productprofile.cs
+++Dtos
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\
+++Product
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\product\
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\
+++Response
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\response\
+++PaginatedResult.cs
+++IServicesCollectionExtensions.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\extensions\iservicescollectionextensions.cs
+++Features
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\
+++Commands
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\commands\
+++EventsHandler
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\eventshandler\
+++Queries
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\queries\
+++GetAllProducts
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\queries\getallproducts\
+++GetAllProductQuery.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\queries\getallproducts\getallproductquery.cs
+++PaginationProduct
+++PaginationProductQuery.cs
+++GetProductByIdQuery.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\queries\getproductbyidquery.cs
+++Interfaces
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\interfaces\
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\common\interfaces\
+++IRepositories
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\interfaces\irepositories\
+++IGenericRepository.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\interfaces\irepositories\common\igenericrepository.cs
+++IUnitOfWork.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\interfaces\irepositories\common\iunitofwork.cs
+++IProductRepository.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\interfaces\irepositories\iproductrepository.cs
+++ProductRequsetDto.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\product\productrequsetdto.cs
+++ProductResponseDto.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\product\productresponsedto.cs
+++BaseResponse.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\response\baseresponse.cs
+++BaseCommandHandler.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\common\basecommandhandler.cs
+++BaseQueryHandler.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\common\basequeryhandler.cs
+++CreateProduct
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\commands\createproduct\
+++DeleteProduct
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\commands\deleteproduct\
+++UpdateProduct
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\commands\updateproduct\
+++BaseProductCommand.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\commands\baseproductcommand.cs
+++ProductCreateEventHandler.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\eventshandler\productcreateeventhandler.cs
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.1)
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:>703
+++FluentValidation.DependencyInjectionExtensions (11.7.1)
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:>700
+++MediatR.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:>706
+i:{50baa03f-db97-4834-8592-fd4c69529712}:>699
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:>735
+++BaseErroResponse.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\response\common\baseerroresponse.cs
+++EntityErrorResponse.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\response\common\entityerrorresponse.cs
+++LogicErrorResponse.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\response\common\logicerrorresponse.cs
+++ResponseApi.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\response\common\responseapi.cs
+++ServerErrorRespose.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\response\common\servererrorrespose.cs
+++CreateProductCommand.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\commands\createproduct\createproductcommand.cs
+++CreateProductCommandValidator.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\commands\createproduct\createproductcommandvalidator.cs
+++DeleteProductCommand.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\commands\deleteproduct\deleteproductcommand.cs
+++DeleteProductCommandValidator.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\commands\deleteproduct\deleteproductcommandvalidator.cs
+++UpdateProductCommand.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\commands\updateproduct\updateproductcommand.cs
+++UpdateProductCommandValidator.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\commands\updateproduct\updateproductcommandvalidator.cs
+++Entities
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\entities\
+++Events
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\events\
+++ValueObject
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\valueobject\
+++BaseAuditableEntity.cs
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\common\baseauditableentity.cs
+++BaseEntity.cs
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\common\baseentity.cs
+++BaseEvent.cs
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\common\baseevent.cs
+++Product.cs
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\entities\product.cs
+++ProductCreateEvent.cs
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\events\productcreateevent.cs
+++Price.cs
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\valueobject\price.cs
+++IAuditableEntity.cs
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\common\interfaces\iauditableentity.cs
+++IDomainEventDispatcher.cs
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\common\interfaces\idomaineventdispatcher.cs
+++IEntity.cs
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\common\interfaces\ientity.cs
+++App.Api
+i:{00000000-0000-0000-0000-000000000000}:App.Api
+++Connected Services 
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:>674
+++Properties
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.api\properties\
+++Controllers
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.api\controllers\
+++appsettings.json
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.api\appsettings.json
+++Program.cs
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.api\program.cs
+++WeatherForecast.cs
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.api\weatherforecast.cs
+++No service dependencies discovered
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:>675
+++launchSettings.json
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.api\properties\launchsettings.json
+++ProductController.cs
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.api\controllers\productcontroller.cs
+++WeatherForecastController.cs
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.api\controllers\weatherforecastcontroller.cs
+++appsettings.Development.json
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:c:\users\drago\desktop\projects\e-commerce\app.api\microsoft.aspnetcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.21)
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:>733
+++Swashbuckle.AspNetCore (6.2.3)
+i:{e3a54d82-1a19-4820-a16f-55f3a9b3e1dd}:>734
+++NewFolder
+++IServices
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\interfaces\iservices\
+++IPaginationService.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\interfaces\iservices\ipaginationservice.cs
+++Specifications
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\specifications\
+++Pagination
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\pagination\
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\services\pagination\
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\specifications\pagination\
+++PaginationRequestDto.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\pagination\paginationrequestdto.cs
+++PaginationResponseDto.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\dtos\pagination\paginationresponsedto.cs
+++PaginationService.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\services\pagination\paginationservice.cs
+++PaginationSpecification.cs
+i:{50baa03f-db97-4834-8592-fd4c69529712}:c:\users\drago\desktop\projects\e-commerce\app.domain\specifications\pagination\paginationspecification.cs
+++GetPaginatedProduct
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\queries\getpaginatedproduct\
+++GetPaginatedProductQuery.cs
+i:{0d6905e6-17b0-4c97-8860-8c37229a07ec}:c:\users\drago\desktop\projects\e-commerce\app.applcation\features\product\queries\getpaginatedproduct\getpaginatedproductquery.cs

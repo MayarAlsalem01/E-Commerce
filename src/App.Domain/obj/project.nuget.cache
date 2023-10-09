@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPKFHoNVM3Yt9JxhHK4V7rRGXYdArN7p9drCKWW3cv2O+1tQphaxtU9/I02x7Buq8fc0FI9fi65asCo+Uxxtog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Domain\\App.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drago\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

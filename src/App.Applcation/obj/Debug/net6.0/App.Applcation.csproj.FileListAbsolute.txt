@@ -1,0 +1,15 @@
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\bin\Debug\net6.0\App.Applcation.deps.json
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\bin\Debug\net6.0\App.Applcation.dll
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\bin\Debug\net6.0\App.Applcation.pdb
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\bin\Debug\net6.0\App.Domain.dll
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\bin\Debug\net6.0\App.Domain.pdb
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\obj\Debug\net6.0\App.Applcation.csproj.AssemblyReference.cache
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\obj\Debug\net6.0\App.Applcation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\obj\Debug\net6.0\App.Applcation.AssemblyInfoInputs.cache
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\obj\Debug\net6.0\App.Applcation.AssemblyInfo.cs
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\obj\Debug\net6.0\App.Applcation.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\obj\Debug\net6.0\App.Applcation.csproj.CopyComplete
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\obj\Debug\net6.0\App.Applcation.dll
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\obj\Debug\net6.0\refint\App.Applcation.dll
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\obj\Debug\net6.0\App.Applcation.pdb
+C:\Users\drago\Desktop\Projects\e-commerce\App.Applcation\obj\Debug\net6.0\ref\App.Applcation.dll
