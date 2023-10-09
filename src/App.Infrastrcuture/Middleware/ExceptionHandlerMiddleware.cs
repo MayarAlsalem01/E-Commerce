@@ -3,6 +3,7 @@ using App.Applcation.Common.Exceptions.Common;
 using App.Applcation.Common.Exceptions.DomainException;
 using App.Applcation.Common.Exceptions.LogicException;
 using App.Applcation.Dtos.Response.Common;
+using App.Applcation.Dtos.Response.Common.ExceptionsResponse;
 using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
 using System;
@@ -38,19 +39,22 @@ namespace App.Infrastrcuture.Middleware
         {
             int code;
             var result=string.Empty;
-            BaseErroResponse errorResponse;
+            BaseErrorResponse errorResponse;
             switch (exception)
             {
                 case EntityException ex:
                    
                     errorResponse = new EntityErrorResponse(
                         (int)HttpStatusCode.BadRequest, 
-                        ex.ErorrsMesage
+                        ex.Result.ToDictionary()
                         );                  
                         
                     break;
                 case NotFoundException ex:
                     errorResponse=new LogicErrorResponse(ex.Code,ex.Message);
+                    break;
+                case ValidationException ex:
+                    errorResponse = new ValidationExceptionResponse(400, ex.Message, ex.Result.ToDictionary());
                     break;
                 default:
                     errorResponse = new ServerErrorRespose(exception.Message);

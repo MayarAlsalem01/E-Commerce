@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DQShqMAmZ7hFegpDI4B4bjryBRpHpWXZoBzRZYjgiQ6UIVAIoziVU6kLgAubkBXQnFt6snjpd71nm6k2wx+DHA==",
+  "dgSpecHash": "5lK9Kv7LYk5uZpJFZiJ5F6ho7PzIj8qw4AidoRbjaXeMGKYBS+CyA+zJcXqxFUrRNRg0ul9ney7bVWxudaNcAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Infrastrcuture\\App.Infrastrcuture.csproj",
+  "projectFilePath": "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Infrastrcuture\\App.Infrastrcuture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drago\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace App.Applcation.Dtos.Response.Common
 {
-    public class ServerErrorRespose:BaseErroResponse
+    public class EntityErrorResponse: BaseErrorResponse
     {
-        public ServerErrorRespose(string message):base(500)
+       
+        public EntityErrorResponse(int code,object errors):base(code)
         {
-                Messagge=message;
+            Errors=errors;
         }
-        public string Messagge { get; set; }
+        
     }
 }

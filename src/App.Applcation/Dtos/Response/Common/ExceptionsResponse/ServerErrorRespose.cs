@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace App.Applcation.Dtos.Response.Common
 {
-    public class BaseErroResponse:BaseResponse
+    public class ServerErrorRespose:BaseErrorResponse
     {
-        public BaseErroResponse(int statusCode) : base(statusCode)
+        public ServerErrorRespose(string message):base(500)
         {
-
+                Messagge=message;
         }
+        public string Messagge { get; set; }
     }
 }

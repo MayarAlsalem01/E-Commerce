@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace App.Applcation.Dtos.Response.Common
 {
-    public sealed class LogicErrorResponse : BaseErroResponse
+    public sealed class LogicErrorResponse : BaseErrorResponse
     {
         public LogicErrorResponse(int statusCode,string message) : base(statusCode)
         {

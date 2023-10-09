@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Applcation\\App.Applcation.csproj": {}
+    "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Applcation\\App.Applcation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Applcation\\App.Applcation.csproj": {
+    "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Applcation\\App.Applcation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Applcation\\App.Applcation.csproj",
+        "projectUniqueName": "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Applcation\\App.Applcation.csproj",
         "projectName": "App.Applcation",
-        "projectPath": "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Applcation\\App.Applcation.csproj",
+        "projectPath": "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Applcation\\App.Applcation.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Applcation\\obj\\",
+        "outputPath": "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Applcation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Domain\\App.Domain.csproj": {
-                "projectPath": "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Domain\\App.Domain.csproj"
+              "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Domain\\App.Domain.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Domain\\App.Domain.csproj": {
+    "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Domain\\App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Domain\\App.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Domain\\App.Domain.csproj",
         "projectName": "App.Domain",
-        "projectPath": "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Domain\\App.Domain.csproj",
+        "projectPath": "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Domain\\App.Domain.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drago\\Desktop\\Projects\\e-commerce\\App.Domain\\obj\\",
+        "outputPath": "C:\\Users\\drago\\Desktop\\Github\\E-Commerce\\src\\App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

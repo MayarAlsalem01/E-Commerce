@@ -47,10 +47,12 @@ namespace App.Api.Controllers
            
         }
 
-       
 
 
 
+        /// <summary>
+        /// Deletes a specific TodoItem.
+        /// </summary>
         [HttpDelete("delete")]
         public async Task<IActionResult> Delete(DeleteProductCommand command)
         {
@@ -81,14 +83,18 @@ namespace App.Api.Controllers
         [HttpGet("id")]
         public async Task<IActionResult> GetProductById([FromQuery]Guid id)
         {
+            
             var product = await _mediator.Send(new GetProductByIdQuery(id));
             var response = ResponseApi<ProductResponseDto>.Response( product, "sucsess",200);
             return Ok(response);
         }
 
         [HttpGet("paginated")]
-        public async Task<IActionResult> GetPaginatedEntities([FromQuery] GetPaginatedProductQuery query,CancellationToken cancellationToken)
+        public async Task<IActionResult> GetPaginatedEntities([FromQuery] PaginationRequestDto dto, CancellationToken cancellationToken)
         {
+            
+            
+            var query = new GetPaginatedProductQuery(dto);
             var result =await _mediator.Send(query,cancellationToken);
             
             return Ok(result);

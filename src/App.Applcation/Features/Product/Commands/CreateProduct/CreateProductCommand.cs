@@ -50,7 +50,7 @@ namespace App.Applcation.Features.Product.Commands.CreateProduct
             
             if (!result.IsValid) 
             { 
-                throw new EntityException("", result); 
+                throw new EntityException("bad entity requsted", result); 
             }
             var product = _mapper.Map<ProductTable>(request);
             product.AddDomainEvent(new ProductCreateEvent(product));
