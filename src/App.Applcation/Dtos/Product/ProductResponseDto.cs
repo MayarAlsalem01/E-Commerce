@@ -11,6 +11,6 @@ namespace App.Applcation.Dtos.Product
         public Guid Id { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
-        //public byte[] Image { get; set; }
+        public byte[] Image { get; set; }
     }
 }

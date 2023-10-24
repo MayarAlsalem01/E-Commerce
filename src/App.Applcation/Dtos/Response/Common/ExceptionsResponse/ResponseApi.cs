@@ -21,7 +21,7 @@ namespace App.Applcation.Dtos.Response.Common
                 int code
              )
         {
-            return new ResponseApi<TData>() { Data = value, message = message,StatusCode=code };
+            return new ResponseApi<TData>() { Data = value, message = message,status=code };
         }
     }
     

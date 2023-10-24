@@ -10,8 +10,8 @@ namespace App.Applcation.Dtos.Response
     {
         public BaseResponse(int statusCode)
         {
-            StatusCode = statusCode;
+           this.status = statusCode;
         }
-        public int StatusCode { get; set; }
+        public int status { get; set; }
     }
 }

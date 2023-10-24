@@ -61,7 +61,7 @@ namespace App.Infrastrcuture.Middleware
                     
                     break;
             }
-            context.Response.StatusCode = errorResponse.StatusCode;
+            context.Response.StatusCode = errorResponse.status;
             context.Response.ContentType = "application/json";
             
             

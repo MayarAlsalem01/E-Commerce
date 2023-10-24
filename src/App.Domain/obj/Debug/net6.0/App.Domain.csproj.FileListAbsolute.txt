@@ -10,3 +10,15 @@ C:\Users\drago\Desktop\Projects\e-commerce\App.Domain\obj\Debug\net6.0\App.Domai
 C:\Users\drago\Desktop\Projects\e-commerce\App.Domain\obj\Debug\net6.0\refint\App.Domain.dll
 C:\Users\drago\Desktop\Projects\e-commerce\App.Domain\obj\Debug\net6.0\App.Domain.pdb
 C:\Users\drago\Desktop\Projects\e-commerce\App.Domain\obj\Debug\net6.0\ref\App.Domain.dll
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\bin\Debug\net6.0\App.Domain.deps.json
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\bin\Debug\net6.0\App.Domain.dll
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\bin\Debug\net6.0\App.Domain.pdb
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\obj\Debug\net6.0\App.Domain.csproj.AssemblyReference.cache
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\obj\Debug\net6.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\obj\Debug\net6.0\App.Domain.AssemblyInfoInputs.cache
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\obj\Debug\net6.0\App.Domain.AssemblyInfo.cs
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\obj\Debug\net6.0\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\obj\Debug\net6.0\App.Domain.dll
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\obj\Debug\net6.0\refint\App.Domain.dll
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\obj\Debug\net6.0\App.Domain.pdb
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\obj\Debug\net6.0\ref\App.Domain.dll

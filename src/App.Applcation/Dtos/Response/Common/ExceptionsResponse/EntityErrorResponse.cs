@@ -11,7 +11,7 @@ namespace App.Applcation.Dtos.Response.Common
        
         public EntityErrorResponse(int code,object errors):base(code)
         {
-            Errors=errors;
+            this.errors=errors;
         }
         
     }

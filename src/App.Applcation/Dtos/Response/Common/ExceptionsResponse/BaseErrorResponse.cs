@@ -12,6 +12,6 @@ namespace App.Applcation.Dtos.Response.Common
         {
 
         }
-        public object Errors { get; set; }
+        public object errors { get; set; }
     }
 }

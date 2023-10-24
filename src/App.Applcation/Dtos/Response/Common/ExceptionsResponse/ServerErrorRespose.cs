@@ -10,8 +10,8 @@ namespace App.Applcation.Dtos.Response.Common
     {
         public ServerErrorRespose(string message):base(500)
         {
-                Messagge=message;
+                this.messagge=message;
         }
-        public string Messagge { get; set; }
+        public string messagge { get; set; }
     }
 }
