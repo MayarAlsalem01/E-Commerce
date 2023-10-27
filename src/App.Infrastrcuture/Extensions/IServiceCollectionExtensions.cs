@@ -24,7 +24,7 @@ namespace App.Infrastrcuture.Extensions
         {
             services.
                 AddDbContext<ApplicationDbContext>(opt =>
-            opt.UseSqlServer(configuration.GetConnectionString("conn"))
+            opt.UseSqlServer(configuration.GetConnectionString("somee"))
             );
             services.AddRepositories();
            

@@ -1,0 +1,7 @@
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\bin\Release\net6.0\publish\App.Domain.dll
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\bin\Release\net6.0\publish\App.Domain.deps.json
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\bin\Release\net6.0\publish\App.Domain.pdb
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\bin\Release\net6.0\publish\MediatR.dll
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\bin\Release\net6.0\publish\MediatR.Contracts.dll
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\bin\Release\net6.0\publish\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\drago\Desktop\Github\E-Commerce\src\App.Domain\bin\Release\net6.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
